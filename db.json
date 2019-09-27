@@ -2,51 +2,57 @@
     "Kategori": [
         {
             "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
-            "KategoriID" : "01",
-            "Nama" : "Indonesia"
+            "id" : "01",
+            "Nama" : "Indonesia",
+            "kategoriId" : "01"
           },
           {
             "Gambar" : "https://i.ibb.co/935wDXy/edukasi.png",
-            "KategoriID" : "02",
-            "Nama" : "Kedokteran"
+            "id" : "02",
+            "Nama" : "Kedokteran",
+            "kategoriId" : "02"
           },
           {
             "Gambar" : "https://i.ibb.co/xgXgkPB/kuliner.png",
-            "KategoriID" : "03",
-            "Nama" : "Budaya"
+            "id" : "03",
+            "Nama" : "Budaya",
+            "kategoriId" : "03"
           },
           {
             "Gambar" : "https://i.ibb.co/ZGqcpfv/seni.png",
-            "KategoriID" : "04",
-            "Nama" : "Seni"
+            "id" : "04",
+            "Nama" : "Seni",
+            "kategoriId" : "04"
           },
           {
             "Gambar" : "https://i.ibb.co/1zxY4JH/religi.png",
-            "KategoriID" : "05",
-            "Nama" : "Religi"
+            "id" : "05",
+            "Nama" : "Religi",
+            "kategoriId" : "05"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
-            "KategoriID" : "06",
-            "Nama" : "Pendidikan"
+            "id" : "06",
+            "Nama" : "Pendidikan",
+            "kategoriId" : "06"
           }
       ],
     "List": [
         {
         "namaNarator" : "Ngatidjan Dwijowarsito",
         "judulSejarah" : "Toponimi Kampung Pesindenan",
-        "foto" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
+        "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
         "id" : "01",
-        "IdAudio" : "01",
-        "KategoriID" : "01"
+        "idAudio" : "01",
+        "kategoriId" : "01"
         },
         {
-        "NamaNarator" : "Ngatidjan Dwijowarsito",
-        "JudulSejarah" : "Toponimi Kampung Pesindenan",
-        "Gambar" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
-        "Id" : "02",
-        "IdAudio" : "02",
-        "KategoriID" : "02"
+        "namaNarator" : "Ngatidjan Dwijowarsito",
+        "judulSejarah" : "Toponimi Kampung Pesindenan",
+        "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "id" : "02",
+        "idAudio" : "02",
+        "kategoriId" : "02"
         }
     ],
     "Audio": [
@@ -54,14 +60,14 @@
             "namaAudio" : "Perkenalan",
             "durasi" : "00.00 - 00.09",
             "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
-            "IdAudio" : "01",
+            "idAudio" : "01",
             "id"  : "01"
         },
         {
             "namaAudio" : "Perkenalan",
             "durasi" : "00.00 - 00.09",
             "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
-            "IdAudio" : "01",
+            "idAudio" : "01",
             "id"  : "02"
         }
     ]
