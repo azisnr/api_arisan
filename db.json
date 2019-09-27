@@ -1,0 +1,68 @@
+{
+    "Kategori": [
+        {
+            "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
+            "KategoriID" : "01",
+            "Nama" : "Indonesia"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/935wDXy/edukasi.png",
+            "KategoriID" : "02",
+            "Nama" : "Kedokteran"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/xgXgkPB/kuliner.png",
+            "KategoriID" : "03",
+            "Nama" : "Budaya"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/ZGqcpfv/seni.png",
+            "KategoriID" : "04",
+            "Nama" : "Seni"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/1zxY4JH/religi.png",
+            "KategoriID" : "05",
+            "Nama" : "Religi"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+            "KategoriID" : "06",
+            "Nama" : "Pendidikan"
+          }
+      ],
+    "List": [
+        {
+        "namaNarator" : "Ngatidjan Dwijowarsito",
+        "judulSejarah" : "Toponimi Kampung Pesindenan",
+        "foto" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
+        "id" : "01",
+        "IdAudio" : "01",
+        "KategoriID" : "01"
+        },
+        {
+        "NamaNarator" : "Ngatidjan Dwijowarsito",
+        "JudulSejarah" : "Toponimi Kampung Pesindenan",
+        "Gambar" : "https://explorewisata.com/wp-content/uploads/2017/11/taman-sari-yogyakarta.jpg",
+        "Id" : "02",
+        "IdAudio" : "02",
+        "KategoriID" : "02"
+        }
+    ],
+    "Audio": [
+        {
+            "namaAudio" : "Perkenalan",
+            "durasi" : "00.00 - 00.09",
+            "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+            "IdAudio" : "01",
+            "id"  : "01"
+        },
+        {
+            "namaAudio" : "Perkenalan",
+            "durasi" : "00.00 - 00.09",
+            "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+            "IdAudio" : "01",
+            "id"  : "02"
+        }
+    ]
+}
