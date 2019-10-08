@@ -35,6 +35,30 @@
             "id" : "06",
             "Nama" : "Pendidikan",
             "kategoriId" : "06"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+            "id" : "07",
+            "Nama" : "Pendidikan",
+            "kategoriId" : "07"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+            "id" : "08",
+            "Nama" : "Pendidikan",
+            "kategoriId" : "08"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+            "id" : "09",
+            "Nama" : "Pendidikan",
+            "kategoriId" : "09"
+          },
+          {
+            "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
+            "id" : "10",
+            "Nama" : "Pendidikan",
+            "kategoriId" : "10"
           }
       ],
     "List": [
