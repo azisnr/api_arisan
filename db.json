@@ -39,25 +39,25 @@
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "id" : "07",
-            "Nama" : "Pendidikan",
+            "Nama" : "Data Diri",
             "kategoriId" : "07"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "id" : "08",
-            "Nama" : "Pendidikan",
+            "Nama" : "Pahlawan",
             "kategoriId" : "08"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "id" : "09",
-            "Nama" : "Pendidikan",
+            "Nama" : "Nasional",
             "kategoriId" : "09"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "id" : "10",
-            "Nama" : "Pendidikan",
+            "Nama" : "Daerah",
             "kategoriId" : "10"
           }
       ],
