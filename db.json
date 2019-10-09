@@ -64,7 +64,10 @@
     "List": [
         {
         "namaNarator" : "Ngatidjan Dwijowarsito",
+        "namaInterview" : "Candra",
         "judulSejarah" : "Toponimi Kampung Pesindenan",
+        "tempatInterview"  : "Yogyakarta",
+        "tanggalInterview" : "12 Januari 2019",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
         "id" : "01",
         "idAudio" : "01",
@@ -72,7 +75,10 @@
         },
         {
         "namaNarator" : "Azis Nur Ridwan",
-        "judulSejarah" : "Toponimi Kampung Pesindenan",
+        "namaInterview" : "Candra",
+        "judulSejarah" : "Sepak Bola",
+        "tempatInterview"  : "Karawang",
+        "tanggalInterview" : "12 Februari 2019",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
         "id" : "02",
         "idAudio" : "02",
@@ -80,11 +86,14 @@
         },
         {
           "namaNarator" : "Rona Saputra",
+          "namaInterview" : "Candra",
           "judulSejarah" : "Data Diri",
+          "tempatInterview"  : "Pacitan",
+          "tanggalInterview" : "12 Oktober 2019",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
           "id" : "03",
           "idAudio" : "01",
-          "kategoriId" : "02"
+          "kategoriId" : "03"
           }
     ],
     "Audio": [
