@@ -75,9 +75,9 @@
         "kategoriId" : "02"
         },
         {
-          "namaNarator" : "Kokom",
+          "namaNarator" : "Nur",
           "namaInterview" : "Candra",
-          "judulSejarah" : "Gamersss",
+          "judulSejarah" : "Futsal",
           "tempatInterview"  : "Yogyakarta",
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
@@ -86,16 +86,16 @@
           "kategoriId" : "01"
           },
           {
-            "namaNarator" : "Ridwan",
-            "namaInterview" : "Candra",
-            "judulSejarah" : "Futsal",
-            "tempatInterview"  : "Karawang",
-            "tanggalInterview" : "12 Februari 2019",
-            "volume"  : "03",
-            "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-            "idAudio" : "02",
-            "kategoriId" : "03"
-            }
+          "namaNarator" : "Ridwan",
+          "namaInterview" : "Candra",
+          "judulSejarah" : "Bowling",
+          "tempatInterview"  : "Karawang",
+          "tanggalInterview" : "12 Februari 2019",
+          "volume"  : "03",
+          "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "idAudio" : "02",
+          "kategoriId" : "04"
+          }
     ],
     "Audio": [
         {
