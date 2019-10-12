@@ -102,15 +102,13 @@
             "namaAudio" : "Perkenalan",
             "durasi" : "00.00 - 00.09",
             "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
-            "idAudio" : "01",
-            "id"  : "01"
+            "idAudio" : "01"
         },
         {
-            "namaAudio" : "Perkenalan",
-            "durasi" : "00.00 - 00.09",
-            "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
-            "idAudio" : "01",
-            "id"  : "02"
-        }
+          "namaAudio" : "Perkenalan",
+          "durasi" : "00.00 - 00.09",
+          "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+          "idAudio" : "01"
+      }
     ]
 }
