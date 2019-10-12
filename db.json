@@ -75,7 +75,7 @@
         "kategoriId" : "02"
         },
         {
-          "namaNarator" : "Nur",
+          "namaNarator" : "Ngatidjan",
           "namaInterview" : "Candra",
           "judulSejarah" : "Futsal",
           "tempatInterview"  : "Yogyakarta",
@@ -88,13 +88,13 @@
           {
           "namaNarator" : "Ridwan",
           "namaInterview" : "Candra",
-          "judulSejarah" : "Bowling",
+          "judulSejarah" : "Catur",
           "tempatInterview"  : "Karawang",
           "tanggalInterview" : "12 Februari 2019",
           "volume"  : "03",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
           "idAudio" : "02",
-          "kategoriId" : "04"
+          "kategoriId" : "02"
           }
     ],
     "Audio": [
