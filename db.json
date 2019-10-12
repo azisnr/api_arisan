@@ -97,18 +97,6 @@
         "id" : "03",
         "idAudio" : "01",
         "kategoriId" : "01"
-        },
-        {
-        "namaNarator" : "Zulfiani",
-        "namaInterview" : "Candra",
-        "judulSejarah" : "Gamers",
-        "tempatInterview"  : "Purwokerto",
-        "tanggalInterview" : "12 Februari 2019",
-        "volume"  : "03",
-        "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-        "id" : "04",
-        "idAudio" : "02",
-        "kategoriId" : "02"
         }
     ],
     "Audio": [
