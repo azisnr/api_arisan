@@ -58,7 +58,9 @@
         "judulSejarah" : "Toponimi Kampung Pesindenan",
         "tempatInterview"  : "Yogyakarta",
         "tanggalInterview" : "12 Januari 2019",
+        "volume"  : "01",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "idAudio" : "01",
         "kategoriId" : "01"
         },
         {
@@ -67,7 +69,9 @@
         "judulSejarah" : "Sepak Bola",
         "tempatInterview"  : "Karawang",
         "tanggalInterview" : "12 Februari 2019",
+        "volume"  : "03",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "idAudio" : "02",
         "kategoriId" : "02"
         },
         {
@@ -76,7 +80,9 @@
           "judulSejarah" : "Futsal",
           "tempatInterview"  : "Yogyakarta",
           "tanggalInterview" : "12 Januari 2019",
+          "volume"  : "01",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "idAudio" : "01",
           "kategoriId" : "01"
           },
           {
@@ -85,7 +91,9 @@
           "judulSejarah" : "Catur",
           "tempatInterview"  : "Karawang",
           "tanggalInterview" : "12 Februari 2019",
+          "volume"  : "03",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "idAudio" : "02",
           "kategoriId" : "02"
           },
           {
@@ -94,16 +102,20 @@
             "judulSejarah" : "Volly",
             "tempatInterview"  : "Karawang",
             "tanggalInterview" : "12 Februari 2019",
+            "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+            "idAudio" : "02",
             "kategoriId" : "03"
             },
             {
               "namaNarator" : "Dimas",
               "namaInterview" : "Candra",
-              "judulSejarah" : "Programmer",
+              "judulSejarah" : "Basket",
               "tempatInterview"  : "Karawang",
               "tanggalInterview" : "12 Februari 2019",
+              "volume"  : "03",
               "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+              "idAudio" : "02",
               "kategoriId" : "04"
               }
     ],
