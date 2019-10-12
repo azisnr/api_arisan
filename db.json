@@ -2,61 +2,51 @@
     "Kategori": [
         {
             "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
-            "id" : "01",
             "Nama" : "Indonesia",
             "kategoriId" : "01"
           },
           {
             "Gambar" : "https://i.ibb.co/935wDXy/edukasi.png",
-            "id" : "02",
             "Nama" : "Kedokteran",
             "kategoriId" : "02"
           },
           {
             "Gambar" : "https://i.ibb.co/xgXgkPB/kuliner.png",
-            "id" : "03",
             "Nama" : "Budaya",
             "kategoriId" : "03"
           },
           {
             "Gambar" : "https://i.ibb.co/ZGqcpfv/seni.png",
-            "id" : "04",
             "Nama" : "Seni",
             "kategoriId" : "04"
           },
           {
             "Gambar" : "https://i.ibb.co/1zxY4JH/religi.png",
-            "id" : "05",
             "Nama" : "Religi",
             "kategoriId" : "05"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
-            "id" : "06",
             "Nama" : "Pendidikan",
             "kategoriId" : "06"
           },
           {
             "Gambar" : "https://i.ibb.co/vPMnZTq/sehat.png",
-            "id" : "07",
             "Nama" : "Data Diri",
             "kategoriId" : "07"
           },
           {
             "Gambar" : "https://i.ibb.co/3dytknR/budaya.png",
-            "id" : "08",
             "Nama" : "Pahlawan",
             "kategoriId" : "08"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
-            "id" : "09",
             "Nama" : "Nasional",
             "kategoriId" : "09"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
-            "id" : "10",
             "Nama" : "Daerah",
             "kategoriId" : "10"
           }
@@ -70,7 +60,6 @@
         "tanggalInterview" : "12 Januari 2019",
         "volume"  : "01",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-        "id" : "01",
         "idAudio" : "01",
         "kategoriId" : "01"
         },
@@ -82,33 +71,30 @@
         "tanggalInterview" : "12 Februari 2019",
         "volume"  : "03",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-        "id" : "02",
         "idAudio" : "02",
         "kategoriId" : "02"
         },
         {
-          "namaNarator" : "Kokom",
+          "namaNarator" : "Nur",
           "namaInterview" : "Candra",
-          "judulSejarah" : "Gamersss",
+          "judulSejarah" : "Futsal",
           "tempatInterview"  : "Yogyakarta",
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-          "id" : "01",
           "idAudio" : "01",
           "kategoriId" : "01"
           },
           {
-          "namaNarator" : "Fuad",
+          "namaNarator" : "Ridwan",
           "namaInterview" : "Candra",
-          "judulSejarah" : "Analisis",
+          "judulSejarah" : "Bowling",
           "tempatInterview"  : "Karawang",
           "tanggalInterview" : "12 Februari 2019",
           "volume"  : "03",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-          "id" : "02",
           "idAudio" : "02",
-          "kategoriId" : "03"
+          "kategoriId" : "04"
           }
     ],
     "Audio": [
