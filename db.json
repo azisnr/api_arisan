@@ -87,17 +87,29 @@
         "kategoriId" : "02"
         },
         {
-        "namaNarator" : "Dimas Putra",
-        "namaInterview" : "Candra",
-        "judulSejarah" : "Programmer",
-        "tempatInterview"  : "Yogyakarta",
-        "tanggalInterview" : "12 Januari 2019",
-        "volume"  : "01",
-        "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-        "id" : "03",
-        "idAudio" : "01",
-        "kategoriId" : "01"
-        }
+          "namaNarator" : "Kokom",
+          "namaInterview" : "Candra",
+          "judulSejarah" : "Gamersss",
+          "tempatInterview"  : "Yogyakarta",
+          "tanggalInterview" : "12 Januari 2019",
+          "volume"  : "01",
+          "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "id" : "03",
+          "idAudio" : "01",
+          "kategoriId" : "01"
+          },
+          {
+          "namaNarator" : "Fuad",
+          "namaInterview" : "Candra",
+          "judulSejarah" : "Analisis",
+          "tempatInterview"  : "Karawang",
+          "tanggalInterview" : "12 Februari 2019",
+          "volume"  : "03",
+          "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "id" : "04",
+          "idAudio" : "02",
+          "kategoriId" : "03"
+          }
     ],
     "Audio": [
         {
