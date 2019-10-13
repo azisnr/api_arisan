@@ -123,18 +123,6 @@
             "kategoriId" : "03"
           },
           {
-            "namaNarator" : "Albert",
-            "namaInterview" : "Candra",
-            "judulSejarah" : "Nyanyi",
-            "tempatInterview"  : "Karawang",
-            "tanggalInterview" : "12 Februari 2019",
-            "volume"  : "03",
-            "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-            "id"  : "06",
-            "idAudio" : "02",
-            "kategoriId" : "03"
-          },
-          {
             "namaNarator" : "Dimas",
             "namaInterview" : "Candra",
             "judulSejarah" : "Programmer",
@@ -142,7 +130,7 @@
             "tanggalInterview" : "12 Februari 2019",
             "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-            "id"  : "07",
+            "id"  : "06",
             "idAudio" : "02",
             "kategoriId" : "03"
           }
