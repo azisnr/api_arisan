@@ -111,17 +111,29 @@
           "kategoriId" : "02"
           },
           {
-            "namaNarator" : "Nur",
+            "namaNarator" : "nur",
             "namaInterview" : "Candra",
-            "judulSejarah" : "Karet",
+            "judulSejarah" : "Volly",
             "tempatInterview"  : "Karawang",
             "tanggalInterview" : "12 Februari 2019",
             "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
             "id"  : "05",
             "idAudio" : "02",
-            "kategoriId" : "03  "
-          }
+            "kategoriId" : "03"
+          },
+          {
+            "namaNarator" : "Albert",
+            "namaInterview" : "Candra",
+            "judulSejarah" : "Nyanyi",
+            "tempatInterview"  : "Karawang",
+            "tanggalInterview" : "12 Februari 2019",
+            "volume"  : "03",
+            "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+            "id"  : "06",
+            "idAudio" : "02",
+            "kategoriId" : "03"
+            }
     ],
     "Audio": [
         {
