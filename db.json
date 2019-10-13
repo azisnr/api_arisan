@@ -3,51 +3,61 @@
         {
             "Gambar" : "https://i.ibb.co/30RGdMc/alam.png",
             "Nama" : "Indonesia",
+            "id"  : "01",
             "kategoriId" : "01"
           },
           {
             "Gambar" : "https://i.ibb.co/935wDXy/edukasi.png",
             "Nama" : "Kedokteran",
+            "id"  : "02",
             "kategoriId" : "02"
           },
           {
             "Gambar" : "https://i.ibb.co/xgXgkPB/kuliner.png",
             "Nama" : "Budaya",
+            "id"  : "03",
             "kategoriId" : "03"
           },
           {
             "Gambar" : "https://i.ibb.co/ZGqcpfv/seni.png",
             "Nama" : "Seni",
+            "id"  : "04",
             "kategoriId" : "04"
           },
           {
             "Gambar" : "https://i.ibb.co/1zxY4JH/religi.png",
             "Nama" : "Religi",
+            "id"  : "05",
             "kategoriId" : "05"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "Nama" : "Pendidikan",
+            "id"  : "06",
             "kategoriId" : "06"
           },
           {
             "Gambar" : "https://i.ibb.co/vPMnZTq/sehat.png",
             "Nama" : "Data Diri",
+            "id"  : "07",
             "kategoriId" : "07"
           },
           {
             "Gambar" : "https://i.ibb.co/3dytknR/budaya.png",
             "Nama" : "Pahlawan",
+            "id"  : "08",
             "kategoriId" : "08"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "Nama" : "Nasional",
+            "id"  : "09",
             "kategoriId" : "09"
           },
           {
             "Gambar" : "https://i.ibb.co/5jq0tBJ/rekreasi.png",
             "Nama" : "Daerah",
+            "id"  : "10",
             "kategoriId" : "10"
           }
       ],
@@ -60,6 +70,7 @@
         "tanggalInterview" : "12 Januari 2019",
         "volume"  : "01",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "id"  : "01",
         "idAudio" : "01",
         "kategoriId" : "01"
         },
@@ -71,6 +82,7 @@
         "tanggalInterview" : "12 Februari 2019",
         "volume"  : "03",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "id"  : "02",
         "idAudio" : "02",
         "kategoriId" : "02"
         },
@@ -82,6 +94,7 @@
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "id"  : "03",
           "idAudio" : "01",
           "kategoriId" : "01"
           },
@@ -93,6 +106,7 @@
           "tanggalInterview" : "12 Februari 2019",
           "volume"  : "03",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "id"  : "04",
           "idAudio" : "02",
           "kategoriId" : "02"
           },
@@ -104,8 +118,9 @@
             "tanggalInterview" : "12 Februari 2019",
             "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+            "id"  : "05",
             "idAudio" : "02",
-            "kategoriId" : "03"
+            "kategoriId" : "03  "
           }
     ],
     "Audio": [
@@ -113,12 +128,14 @@
             "namaAudio" : "Perkenalan",
             "durasi" : "00.00 - 00.09",
             "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+            "id"  : "01",
             "idAudio" : "01"
         },
         {
           "namaAudio" : "Perkenalan",
           "durasi" : "00.00 - 00.09",
           "rekaman" : "https://vocaroo.com/i/s0C7TAySlKsX",
+          "id"  : "02",
           "idAudio" : "01"
       }
     ]
