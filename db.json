@@ -70,6 +70,7 @@
         "tanggalInterview" : "12 Januari 2019",
         "volume"  : "01",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "download"  : "https://code.visualstudio.com/download#",
         "id"  : "01",
         "idAudio" : "01",
         "kategoriId" : "01"
@@ -82,6 +83,7 @@
         "tanggalInterview" : "12 Februari 2019",
         "volume"  : "03",
         "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+        "download"  : "",
         "id"  : "02",
         "idAudio" : "02",
         "kategoriId" : "02"
