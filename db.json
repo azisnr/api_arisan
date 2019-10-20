@@ -96,6 +96,7 @@
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "download"  : "",
           "id"  : "03",
           "idAudio" : "01",
           "kategoriId" : "01"
@@ -108,6 +109,7 @@
           "tanggalInterview" : "12 Februari 2019",
           "volume"  : "03",
           "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "download"  : "",
           "id"  : "04",
           "idAudio" : "02",
           "kategoriId" : "02"
@@ -120,7 +122,8 @@
             "tanggalInterview" : "12 Februari 2019",
             "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-            "id"  : "05",
+          "download"  : "",
+          "id"  : "05",
             "idAudio" : "02",
             "kategoriId" : "03"
           },
@@ -132,7 +135,8 @@
             "tanggalInterview" : "12 Februari 2019",
             "volume"  : "03",
             "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
-            "id"  : "06",
+          "download"  : "",
+          "id"  : "06",
             "idAudio" : "02",
             "kategoriId" : "03"
           }
