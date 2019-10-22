@@ -139,6 +139,19 @@
           "id"  : "06",
             "idAudio" : "02",
             "kategoriId" : "03"
+          },
+          {
+            "namaNarator" : "Elang",
+            "namaInterview" : "Candra",
+            "judulSejarah" : "Analisis",
+            "tempatInterview"  : "Karawang",
+            "tanggalInterview" : "12 Februari 2019",
+            "volume"  : "03",
+            "foto" : "https://i.ibb.co/G0778R6/narator-pesindenan.jpg",
+          "download"  : "",
+          "id"  : "06",
+            "idAudio" : "02",
+            "kategoriId" : "03"
           }
     ],
     "Audio": [
