@@ -78,7 +78,7 @@
         {
           "namaNarator" : "Rona Saputra",
           "namaInterview" : "Febrianto",
-          "judulSejarah" : "Toponimi Kampung Pesindenan",
+          "judulSejarah" : "Dummy",
           "tempatInterview"  : "Yogyakarta",
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
@@ -91,7 +91,7 @@
           {
             "namaNarator" : "Dummy",
             "namaInterview" : "Dummy",
-            "judulSejarah" : "Toponimi Kampung Pesindenan",
+            "judulSejarah" : "Dummy",
             "tempatInterview"  : "Yogyakarta",
             "tanggalInterview" : "12 Januari 2019",
             "volume"  : "01",
@@ -100,6 +100,32 @@
             "id"  : "03",
             "idAudio" : "01",
             "kategoriId" : "02"
+            },
+            {
+              "namaNarator" : "Azis",
+              "namaInterview" : "Azis",
+              "judulSejarah" : "Dummy",
+              "tempatInterview"  : "Yogyakarta",
+              "tanggalInterview" : "12 Januari 2019",
+              "volume"  : "01",
+              "foto" : "",
+              "download"  : "",
+              "id"  : "04",
+              "idAudio" : "02",
+              "kategoriId" : "03"
+            },
+            {
+              "namaNarator" : "Ridwan",
+              "namaInterview" : "Ridwan",
+              "judulSejarah" : "Dummy",
+              "tempatInterview"  : "Yogyakarta",
+              "tanggalInterview" : "12 Januari 2019",
+              "volume"  : "01",
+              "foto" : "",
+              "download"  : "",
+              "id"  : "05",
+              "idAudio" : "01",
+              "kategoriId" : "04"
             }
     ],
     "Audio": [
