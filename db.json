@@ -82,10 +82,10 @@
           "tempatInterview"  : "Yogyakarta",
           "tanggalInterview" : "12 Januari 2019",
           "volume"  : "01",
-          "foto" : "",
+          "foto" : "https://www.jlnmcbgp.org/images/no_photo_available.png",
           "download"  : "",
           "id"  : "02",
-          "idAudio" : "01",
+          "idAudio" : "02",
           "kategoriId" : "02"
           },
           {
@@ -95,10 +95,10 @@
             "tempatInterview"  : "Yogyakarta",
             "tanggalInterview" : "12 Januari 2019",
             "volume"  : "01",
-            "foto" : "",
+            "foto" : "https://www.jlnmcbgp.org/images/no_photo_available.png",
             "download"  : "",
             "id"  : "03",
-            "idAudio" : "01",
+            "idAudio" : "03",
             "kategoriId" : "02"
             },
             {
@@ -108,10 +108,10 @@
               "tempatInterview"  : "Yogyakarta",
               "tanggalInterview" : "12 Januari 2019",
               "volume"  : "01",
-              "foto" : "",
+              "foto" : "https://www.jlnmcbgp.org/images/no_photo_available.png",
               "download"  : "",
               "id"  : "04",
-              "idAudio" : "02",
+              "idAudio" : "04",
               "kategoriId" : "03"
             },
             {
@@ -121,10 +121,10 @@
               "tempatInterview"  : "Yogyakarta",
               "tanggalInterview" : "12 Januari 2019",
               "volume"  : "01",
-              "foto" : "",
+              "foto" : "https://www.jlnmcbgp.org/images/no_photo_available.png",
               "download"  : "",
               "id"  : "05",
-              "idAudio" : "01",
+              "idAudio" : "05",
               "kategoriId" : "04"
             }
     ],
