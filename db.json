@@ -126,6 +126,19 @@
               "id"  : "05",
               "idAudio" : "05",
               "kategoriId" : "04"
+            },
+            {
+              "namaNarator" : "Nur",
+              "namaInterview" : "Nur",
+              "judulSejarah" : "Dummy",
+              "tempatInterview"  : "Yogyakarta",
+              "tanggalInterview" : "12 Januari 2019",
+              "volume"  : "01",
+              "foto" : "https://www.jlnmcbgp.org/images/no_photo_available.png",
+              "download"  : "",
+              "id"  : "06",
+              "idAudio" : "06",
+              "kategoriId" : "02"
             }
     ],
     "Audio": [
